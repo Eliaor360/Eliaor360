@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I’m Elia
 
-<!--
-**Eliaor360/Eliaor360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Security Engineer | DevOps & DevSecOps
 
-Here are some ideas to get you started:
+I’m a technical engineer with a background in network security, cloud technologies, and troubleshooting complex systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional experience is in network and cloud security, working with technologies such as SASE, ZTNA, VPNs, identity management, and secure access solutions.
+
+I’ve also been expanding my skills in DevOps and DevSecOps, working with Docker, Kubernetes, Jenkins, CI/CD pipelines, and AWS.
+
+I enjoy understanding how systems work, troubleshooting issues, and building tools that make things easier.
+
+Technologies I Work With
+
+Security & Networking
+
+* SASE, ZTNA, SWG, CASB, DLP
+* TCP/IP, DNS, HTTP/S, VPN, IPsec
+* SAML, SSO, Identity & Access Management
+
+Cloud & DevOps
+
+* AWS, Azure
+* Docker, Kubernetes
+* Jenkins, CI/CD
+* Linux, Git
+
+Tools & Monitoring
+
+* Wireshark, tcpdump
+* Grafana, Prometheus
+* Python, Bash
+
+Projects
+
+AI Job Screener
+
+A team project that uses AI to analyze resumes and rank candidates based on job requirements.
+
+The project includes a web application, Docker containers, a Jenkins CI/CD pipeline, Kubernetes deployments, and monitoring with Prometheus and Grafana.
+
+* Application
+* Infrastructure & DevOps
+
+What I’m Currently Working On
+
+* Improving my cloud and DevOps skills
+* Building hands-on projects with Kubernetes and CI/CD
+* Learning more about cloud security and automation
